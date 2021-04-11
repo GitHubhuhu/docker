@@ -14,6 +14,7 @@ abstract class BaseClass implements BaseInterface
     const FIELD_TYPE_STATUS = 4; //control status
     const FIELD_TYPE_LIQUID = 5; //Liquid level status
     const FIELD_TYPE_ADDRESS = 6; //ADDRESS
+    const FIELD_TYPE_VISUAL = 7; //VISUAL
 
     /**
      * main function

@@ -1,5 +1,6 @@
 .idea
 logs
 data/rabbitmq
+data/timescaledb/postmaster.pid
 entrypoint.sh
 install.sql
