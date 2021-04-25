@@ -49,6 +49,8 @@ docker ps -a
 docker exec -it thingspanel-xxx bash
 ```
 
+如果timescaledb启动不了, 可删除data/timescaledb/pg_tblspc/.gitkeep后重试
+
 ## 前台访问
 `http://127.0.0.1:8080`
 
